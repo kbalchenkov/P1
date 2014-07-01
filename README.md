@@ -21,3 +21,4 @@ No login required.
 
 ## Outside code
 * Blank HTML Documentt: http://www.webmonkey.com/2010/02/blank_html_document/
+* Linked in Profile Badge: https://www.linkedin.com/profile/profile-badges
