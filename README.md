@@ -1,4 +1,4 @@
-# xkcd P1
+# P1
 
 ## Live URL
 <http://p1.dwaclassharvard.me>
